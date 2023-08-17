@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ayat Gamal/CLionProjects/Project/Course.h
+iostream
+-
+string
+-
+
+C:/Users/Ayat Gamal/CLionProjects/Project/Department.h
+vector
+-
+string
+-
+Course.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Course.h
+fstream
+-
+iostream
+-
+
+C:/Users/Ayat Gamal/CLionProjects/Project/Employee.h
+Person.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Person.h
+
+C:/Users/Ayat Gamal/CLionProjects/Project/Faculty.cpp
+Faculty.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Faculty.h
+
+C:/Users/Ayat Gamal/CLionProjects/Project/Faculty.h
+iostream
+-
+vector
+-
+fstream
+-
+Person.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Person.h
+Student.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Student.h
+Employee.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Employee.h
+Instructor.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Instructor.h
+Department.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Department.h
+
+C:/Users/Ayat Gamal/CLionProjects/Project/Instructor.h
+Person.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Person.h
+
+C:/Users/Ayat Gamal/CLionProjects/Project/Manager.h
+Person.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Person.h
+
+C:/Users/Ayat Gamal/CLionProjects/Project/Person.h
+iostream
+-
+
+C:/Users/Ayat Gamal/CLionProjects/Project/Student.h
+Person.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Person.h
+
+C:/Users/Ayat Gamal/CLionProjects/Project/University.cpp
+University.h
+C:/Users/Ayat Gamal/CLionProjects/Project/University.h
+
+C:/Users/Ayat Gamal/CLionProjects/Project/University.h
+fstream
+-
+vector
+-
+Manager.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Manager.h
+Faculty.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Faculty.h
+
+C:/Users/Ayat Gamal/CLionProjects/Project/main.cpp
+iostream
+-
+Person.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Person.h
+Manager.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Manager.h
+Student.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Student.h
+Instructor.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Instructor.h
+Employee.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Employee.h
+Faculty.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Faculty.h
+University.h
+C:/Users/Ayat Gamal/CLionProjects/Project/University.h
+Course.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Course.h
+Department.h
+C:/Users/Ayat Gamal/CLionProjects/Project/Department.h
+
